@@ -2,7 +2,8 @@
     {
         "packageName": "testing", 
         "verCreated": "2.2.0",
-        "packageType": "Scene"
+        "packageType": "Scene", 
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/testPackage/package.unitypackage"
     },
     {
         "packageName": "testing2", 
