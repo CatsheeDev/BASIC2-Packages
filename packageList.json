@@ -1,0 +1,12 @@
+[
+    {
+        "packageName": "testing", 
+        "verCreated": "2.2.0",
+        "packageType": "Scene"
+    },
+    {
+        "packageName": "testing2", 
+        "verCreated": "2.2.0",
+        "packageType": "Item"
+    }
+]
