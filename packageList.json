@@ -10,6 +10,6 @@
         "packageName": "Staminometer", 
         "verCreated": "2.2.0",
         "packageType": "UI",
-        "packageInfo": "Add the staminometer to your decompile!\nInstructions:\n1) Go to _BASIC/Packages/Staminometer and drag the Staminometer prefab into your hud.\n2)Go to the player script and replace the \"Slider\" field with the one inside the prefab.\n3) Optinoally, deactive the original slider!"
+        "packageInfo": "Add the staminometer to your decompile!\nInstructions:\n1) Go to _BASIC/Packages/Staminometer\n2) Drag the Staminometer prefab into your hud.\n3)Go to the player script.\n4) replace the \"Slider\" field with the one inside the prefab.\n5) Optinoally, deactive the original slider!"
     }
 ]
