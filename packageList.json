@@ -7,9 +7,9 @@
         "packageInfo": "Optimize your billboards* \n\n\n\n*genuine results not guaranteed"
     },
     {
-        "packageName": "testing2", 
+        "packageName": "Staminometer", 
         "verCreated": "2.2.0",
-        "packageType": "Item",
-        "packageInfo": "fuck my life 2"
+        "packageType": "UI",
+        "packageInfo": "Add the staminometer to your decompile!\nInstructions:\n1) Go to _BASIC/Packages/Staminometer and drag the Staminometer prefab into your hud.\n2)Go to the player script and replace the \"Slider\" field with the one inside the prefab.\n3) Optinoally, deactive the original slider!"
     }
 ]
