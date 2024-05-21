@@ -1,10 +1,10 @@
 [
     {
-        "packageName": "testing", 
+        "packageName": "Optimized Billboard", 
         "verCreated": "2.2.0",
-        "packageType": "Scene", 
-        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/testPackage/package.unitypackage",
-        "packageInfo": "fuck my life"
+        "packageType": "Optimization", 
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/optimizedBillboard/billboardOptimized.unitypackage",
+        "packageInfo": "Optimize your billboards* \n *genuine results not guaranteed"
     },
     {
         "packageName": "testing2", 
