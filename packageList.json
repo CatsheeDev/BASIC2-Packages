@@ -3,11 +3,13 @@
         "packageName": "testing", 
         "verCreated": "2.2.0",
         "packageType": "Scene", 
-        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/testPackage/package.unitypackage"
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/testPackage/package.unitypackage",
+        "packageInfo": "fuck my life"
     },
     {
         "packageName": "testing2", 
         "verCreated": "2.2.0",
-        "packageType": "Item"
+        "packageType": "Item",
+        "packageInfo": "fuck my life 2"
     }
 ]
