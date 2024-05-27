@@ -9,6 +9,7 @@
     {
         "packageName": "Staminometer", 
         "verCreated": "2.2.0",
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/staminometer/Staminometer.unitypackage",
         "packageType": "UI",
         "packageInfo": "Add the staminometer to your decompile!\nInstructions:\n1) Go to _BASIC/Packages/Staminometer\n2) Drag the Staminometer prefab into your hud.\n3)Go to the player script.\n4) replace the \"Slider\" field with the one inside the prefab.\n5) Optinoally, deactive the original slider!"
     }
