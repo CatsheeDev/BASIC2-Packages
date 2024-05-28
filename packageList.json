@@ -25,6 +25,6 @@
         "verCreated": "2.2.0",
         "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/consistentDoors/consistentDoors.unitypackage",
         "packageType": "Optimization",
-        "packageInfo": "Dark yellow doors will use the same texture as normal yellow doors, just with a darker colour on unity."
+        "packageInfo": "Dark yellow doors will use the same texture\n as normal yellow doors, just with a darker colour on unity."
     }
 ]
