@@ -3,7 +3,7 @@
         "packageName": "Update 2.2.1", 
         "verCreated": "2.2.1",
         "packageType": "Update", 
-        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/optimizedBillboard/billboardOptimized.unitypackage",
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/Updates/221/221Updatwe.unitypackage",
         "packageInfo": "UPDATE 2.2.1\n Improves PickupScript to take a\n dynamically generated enum & fixes no YCTP"
     },
     {
