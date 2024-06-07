@@ -1,5 +1,12 @@
 [
     {
+        "packageName": "Update 2.2.1", 
+        "verCreated": "2.2.1",
+        "packageType": "Update", 
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/optimizedBillboard/billboardOptimized.unitypackage",
+        "packageInfo": "UPDATE 2.2.1\n Improves PickupScript to take a\n dynamically generated enum & fixes no YCTP"
+    },
+    {
         "packageName": "Optimized Billboard", 
         "verCreated": "2.2.0",
         "packageType": "Optimization", 
