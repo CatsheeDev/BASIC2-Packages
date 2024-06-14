@@ -1,17 +1,17 @@
 [
     {
+        "packageName": "Update 2.2.2", 
+        "verCreated": "2.2.2",
+        "packageType": "Update", 
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/Updates/222/222.unitypackage",
+        "packageInfo": "UPDATE 2.2.2\n Adds a basic MapMaidAPI and ItemEditorAPI\nand some other stuff (dont look in basic folder)"
+    },
+    {
         "packageName": "Update 2.2.1", 
         "verCreated": "2.2.1",
         "packageType": "Update", 
         "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/Updates/221/221Updatwe.unitypackage",
         "packageInfo": "UPDATE 2.2.1\n Improves PickupScript to take a\n dynamically generated enum & fixes no YCTP"
-    },
-    {
-        "packageName": "Update 2.2.2", 
-        "verCreated": "2.2.2",
-        "packageType": "Update", 
-        "packagPath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/optimizedBillboard/billboardOptimized.unitypackage",
-        "packageInfo": "UPDATE 2.2.2\n Adds a basic MapMaidAPI and ItemEditorAPI\nand some other stuff (dont look in basic folder)"
     },
     {
         "packageName": "Optimized Billboard", 
