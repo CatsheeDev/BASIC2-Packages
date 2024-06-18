@@ -1,5 +1,12 @@
 [
     {
+        "packageName": "HOTFIX 2.2.3 -- IMPORTANT!!", 
+        "verCreated": "2.2.3",
+        "packageType": "Update", 
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/Updates/223/223hotfix.unitypackage",
+        "packageInfo": "FIXES ITEMS!!! FUCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
         "packageName": "Update 2.2.2", 
         "verCreated": "2.2.2",
         "packageType": "Update", 
