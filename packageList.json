@@ -1,5 +1,12 @@
 [
     {
+        "packageName": "HOTFIX 2.2.3 2", 
+        "verCreated": "2.2.3",
+        "packageType": "Update", 
+        "packagePath": "https://github.com/CatsheeDev/BASIC2-Packages/raw/main/Updates/223/223PATCH2.unitypackage",
+        "packageInfo": "Fixes Baldicator, interactions & items (again)"
+    },
+    {
         "packageName": "HOTFIX 2.2.3 -- IMPORTANT!!", 
         "verCreated": "2.2.3",
         "packageType": "Update", 
